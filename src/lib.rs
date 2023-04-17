@@ -1,4 +1,4 @@
-#![feature(lazy_cell)]
+#![feature(once_cell)]
 //! # hudhook
 //!
 //! This library implements a mechanism for hooking into the
